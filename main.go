@@ -146,5 +146,8 @@ func ShowToConsole(output *Output) {
 }
 
 func PrintUsage() {
-	fmt.Println("a")
+	fmt.Println("For Create New Division: ")
+	fmt.Println("Type `INSERT-DIVISION [id] [name]`")
+	fmt.Println("For Create New Employee: ")
+	fmt.Println("Type `INSERT-Emplotee [id] [name] [division] [ACTIVE/BANNED/INACTIVE]`")
 }
