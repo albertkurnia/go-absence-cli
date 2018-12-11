@@ -13,4 +13,5 @@ And dont forget to change db config in `main.go` file.
 5. type `./go-absence-cli`
 
 ## To-do list
-1. Test
+1. Clean code
+2. Test
